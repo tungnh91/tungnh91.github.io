@@ -1,5 +1,3 @@
-'use strict;'
-import $ from 'https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js'
 var canvas = document.getElementById('container');
 var clone = document.getElementById('blurCanvasBottom');
 
