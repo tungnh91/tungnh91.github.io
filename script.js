@@ -1,3 +1,4 @@
+$(document).ready(function) {
 var canvas = document.getElementById('container');
 var clone = document.getElementById('blurCanvasBottom');
 
@@ -109,4 +110,6 @@ function randomInt(min,max)
 function velocityInt(min,max)
 {
     return Math.random()*(max-min+1)+min;
+}
+
 }
