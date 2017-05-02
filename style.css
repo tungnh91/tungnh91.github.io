@@ -30,14 +30,14 @@ html,body {
 }
 h1.title {
   color:white;
-  font-size: 4vw;
+  font-size: 9vw;
   display:inline;
   font-weight:500;
 }
 p.desc{
   position:relative;
   width:100%;
-  font-size:4vw;
+  font-size:2vw;
   color:rgba(255,255,255,1);
   font-weight: 200;
   margin-bottom:40px;
