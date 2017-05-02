@@ -11,13 +11,18 @@
       <div class="content">
         <h1 class="title">Tim Nguyen</h1>
         <p class="desc">Full Stack Software Engineer.</p>
-         <div class="contact">
-              <a target="_top"href="https://linkedin.com/in/timothytungnguyen"><img src='icons/linkedin.png'></a>
-              <a target="_top" href="https://github.com/tungnh91"><img src= 'icons/github.png'></a>
-            <a href="mailto:tungnh91@gmail.com"><img src='icons/email.png'></a>
-            <a href="https://medium.com/@9447"><img src='icons/medium.png'></a>
-            <a href="https://twitter.com/t_nguyen91"><img src='icons/twitter.png'></a>
-          </div>
+         <ul class="contact">
+            <li>
+              <a target="_top"href="https://linkedin.com/in/timothytungnguyen"><img src='icons/linkedin.ico'></a></li>
+            <li>
+              <br>
+              <a target="_top" href="https://github.com/tungnh91"><img src= 'icons/github.png'></a></li>
+            <br>
+            <li><a href="mailto:tungnh91@gmail.com"><img src='icons/email.png'></a></li>
+            <br>
+            <li><a href="https://twitter.com/t_nguyen91"><img src='icons/twitter.png'></a></li>
+            <br>
+          </ul>
       </div>
     </div>
     <div class="blur blurTop"><canvas class="canvas"id="blurCanvasTop"></canvas></div>
