@@ -10,7 +10,7 @@
     <canvas class="container" id="container" role="main"></canvas>
       <div class="content">
         <h1 class="title">Tim Nguyen</h1>
-        <p class="desc">Full Stack Software Engineer.</p>
+        <p class="desc">Software Engineer</p>
          <ul class="contact">
             <li>
               <a target="_top"href="https://linkedin.com/in/timothytungnguyen"><img src='icons/linkedin.ico'></a></li>
@@ -20,7 +20,7 @@
             <br>
             <li><a href="mailto:tungnh91@gmail.com"><img src='icons/email.png'></a></li>
             <br>
-            <li><a href="https://twitter.com/t_nguyen91"><img src='icons/twitter.png'></a></li>
+            <li><a href="https://twitter.com/t__ng"><img src='icons/twitter.png'></a></li>
             <br>
           </ul>
       </div>
